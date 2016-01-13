@@ -1,0 +1,35 @@
+﻿<!doctype html>
+<html ng-app="app">
+<head>
+    <title>Prueba Angular</title>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/main.js"></script>
+</head>
+<body ng-controller="Controlador as ctrl">
+
+    <!--<p>Esta es una variable: {{variable}}</p>
+    <ul>
+        Esta es una lista
+        <li ng-repeat="lis in listas">
+            Nombre: {{lis.nombre | uppercase}} |
+            Año: {{lis.anio}}
+        </li>
+    </ul>
+    <div>
+        Input: <input ng-model="ctrl.input" /> 
+        {{ctrl.input}}
+    </div>-->
+    <div>
+        <h1>Prueba Json $http</h1>
+        <ul>
+            <li ng-repeat="x in phones">
+                Age: {{x.age}}
+                Nombre: {{x.name | uppercase}}
+            </li>
+        </ul>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+c:\users\braquec\documents\visual studio 2013\Projects\MyAngularApp\MyAngularApp\bin\MyAngularApp.dll.config
+c:\users\braquec\documents\visual studio 2013\Projects\MyAngularApp\MyAngularApp\bin\MyAngularApp.dll
+c:\users\braquec\documents\visual studio 2013\Projects\MyAngularApp\MyAngularApp\bin\MyAngularApp.pdb
+c:\users\braquec\documents\visual studio 2013\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.dll
+c:\users\braquec\documents\visual studio 2013\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.pdb
+C:\Users\braquec\Documents\Visual Studio 2013\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.csprojResolveAssemblyReference.cache
